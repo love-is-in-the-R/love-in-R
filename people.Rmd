@@ -24,6 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Ishveen Kaur\
 MS (University of Texas at RGV, Texas)\
 BS (Punjab Agriculture University, India)\
+
 The idea of developing this R classes was initiated,\
 conceptualised and executed by me. The thought behind\
 this idea was to create a global network/ community of\
@@ -38,7 +39,8 @@ basic responsibilities include co- ordinating among mentors\
 and learners, designing schedule and course outline of\
 workshop, acting as moderator to cater to needs of both\
 mentors and leaders.\
-Words of Wisdoms: *If life throws lemonns at you, make a\
+
+Words of Wisdom: *If life throws lemons at you, make a\
 lemonade and chill*.
 
 :::
