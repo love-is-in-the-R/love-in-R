@@ -22,8 +22,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {.column width="75%}
 
 ### Ishveen Kaur\
-BS (Punjab Agriculture University, India)\
-MS (University of Texas at RGV)
+MS (University of Texas at RGV, Texas)\
+BS (Punjab Agriculture University, India)
+The idea of developing this R classes was initiated, conceptualised and executed by me. The thought behind this idea was to create a global network/ community of people interested in coding where we all can learn from each other and help each other grow. Thee is lot of stuff online, but still large proportion of people face difficulty iin learning R, due to lack of interactive and one on one session. This idea led to creation of platform to bring learners and mentors together, leading to creation of several session covering topics from basics of R to advanced R. My basic responsibilities include co- ordinating among mentors and learners, designing schedule and course outline of workshop, acting as moderator to cater to needs of both mentors and leaders.
+Success Mantra If life throws lemonns at you, make a lemonade and chill.
 
 :::
 
