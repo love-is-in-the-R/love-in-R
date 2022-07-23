@@ -1,0 +1,127 @@
+---
+title: "Recordings"
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In this page you will be able to get all the information on the past events that has been done.  
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IURWkDCEjCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 1**  
+Date: 15 July 2022  
+Time: 12GMT  
+Platform: ZOOM  
+[Download R script](R_eng_2020/firstseminar.R)
+</aside>  
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td0FvniPbGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 2**  
+Date: 17 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+[Download R script](R_eng_2020/secondseminar.R)
+</aside>
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbwHyryZzVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 3**  
+Date: 18 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+[Download R script](R_eng_2020/thirdseminar.R)
+</aside>
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iAYGN2Q-t2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 4**  
+Date: 19 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+[Download R script](R_eng_202seminar4.R)
+</aside>  
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCbhVSFPG2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>  
+**Seminar 5**  
+Date: 21 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+
+Hi Codders,  
+Our next session ( workshop no. 5) will be on thursday . It will be at 12 pm GMT . We will continue with data visualization  
+[Zoom link](https://ut-ee.zoom.us/j/92044325760?pwd=Y3NVQk5QbHh6T3M2enZpY3Y5YllqQT09)\
+
+[Download Homework](R_eng_2020/homework1_Liis_A20783.pdf)\
+</aside>  
+
+***
+
+Video will be uploaded after the the session.\
+
+<aside>  
+**Seminar 6**  
+Date: 23 September 2022\  
+Time: 12GMT\ 
+Platform: ZOOM\
+Mentor: Elijah Appiah\
+
+Join Zoom Meeting\
+[https://osu.zoom.us/j/93476048620?pwd=T29wSnJ0L2F0REJCTU1WcUt0bGZVUT09](https://osu.zoom.us/j/93476048620?pwd=T29wSnJ0L2F0REJCTU1WcUt0bGZVUT09)
+
+Meeting ID: 934 7604 8620\
+Password: 845326\
+
+There is going to be a lesson on the Principles and Practice of Data Visualization with R.\
+
+It will be a 1 hour and 30 minutes lesson that will cover the various visualization techniques you need to master to become a Data Visualization expert. This will supplement the lectures you've had so far and go into details at least.\
+
+See you soon!\
+
+Download Seminar Materials\
+[Excel Data](assets/wage.xlsx)\
+[Wage 1 Dataset Description](assets/wage1 dataset description.pdf)\
+</aside>  
+
+## Webmasters {.appendix}
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/profile.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+#### KAMARUL ARIFFIN MANSOR\
+Designation: Senior Lecturer (Applied Statistics)\
+Affiliation: MARA University of Technology, Malaysia\
+Email: kamarul.ariffin.167118@gmail.com\
+[Website](https://ariff118.github.io/kamansor.github.io/)
+
+:::
+
+::::::
+

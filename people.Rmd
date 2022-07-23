@@ -1,0 +1,150 @@
+---
+title: "People"
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Founder
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/female.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+### Ishveen Kaur\
+BS (Punjab Agriculture University, India)\
+MS (University of Texas at RGV)
+
+:::
+
+::::::
+
+***
+
+## Mentors
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/indrek.jpg){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+### Indrek Seppo\
+*Designation*: Economist, Data Scientist, R programmer, Lecturer\
+*Affiliation*: University of Tartu\
+*Email*: indrek.seppo@gmail.com\
+[CV](R_Eng_2020/CV_IndrekSeppo_eng.pdf)  
+
+:::
+
+::::::
+
+***
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/female.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+### Tessa Ruth\
+*Designation*: Ph.D student\
+*Affiliation*: University of Queensland\
+*Country*: Australia\
+*Email*: tessc@live.com.au
+
+:::
+
+::::::
+
+***
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/male.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+### Faustino Delgado Camacho\
+*Designation*: Genotypic Data Analyst\
+*Affiliation*: \
+*Country*: Mexico\
+*Email*: faustdelcam@gmail.com
+
+:::
+
+::::::
+
+***
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/male.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+### Elijah Appiah\
+*Country*: Ghana\
+*Biography*: Economist by profession, and passionate\
+about Data Science and AI.\
+*Technical Skills*: Excel, SPSS, Stata, Eviews, Python,\
+R, Tableau, Power BI, Google, TensorFlow.\
+*Skills in R*: Basics in R, Data Types and Structures,\
+Data Manipulation and Wrangling, Statistical Analysis,\
+Tidyverse, Tidymodels for Machine Learning, Blogdown,\
+Markdown, Shiny Web Applications, Time Series Analysis.\
+*Email*: appiahelijah497897@gmail.com
+
+:::
+
+::::::
+
+
+## Webmasters {.appendix}
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/profile.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+#### KAMARUL ARIFFIN MANSOR\
+Designation: Senior Lecturer (Applied Statistics)\
+Affiliation: MARA University of Technology, Malaysia\
+Email: kamarul.ariffin.167118@gmail.com\
+[Website](https://ariff118.github.io/kamansor.github.io/)
+
+:::
+
+::::::
+

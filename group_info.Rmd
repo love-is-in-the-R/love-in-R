@@ -1,0 +1,105 @@
+---
+title: "Group Information"
+output: html_document
+---
+
+### Load libraries\
+> library(readxl)\
+library(knitr)\
+library(kableExtra)\
+library(tidyverse)\
+library(ggplot2)\
+library(plotly)\
+library(viridis)\
+library(DT)
+
+```{r include=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+library(ggplot2)
+library(plotly)
+library(viridis)
+library(DT)
+```
+
+### Read data\
+```{r}
+learners <- read_excel("data-group.xlsx", 
+    sheet = "learners")
+mentors <- read_excel("data-group.xlsx", 
+    sheet = "mentors")
+timezone <- read_excel("data-group.xlsx", 
+    sheet = "timezone")
+course_outline <- read_excel("data-group.xlsx", 
+    sheet = "course_outline")
+```
+
+### View data table\
+```{r layout="l-screen-inset"}
+# Learner's Profile
+datatable(learners, options = list(
+  pageLength = 5, scrollX = TRUE
+))
+```
+
+```{r layout="l-screen-inset"}
+# Mentor's Profile
+datatable(mentors, options = list(
+  pageLength = 5, scrollX = TRUE
+))
+```
+
+```{r layout="l-screen-inset"}
+# Timezone GMT
+datatable(timezone, options = list(
+  pageLength = 5, scrollX = TRUE
+))
+```
+
+```{r layout="l-screen-inset"}
+# Course Outline
+datatable(course_outline, options = list(
+  pageLength = 5, scrollX = TRUE
+))
+```
+
+### View data distribution\
+```{r layout="l-screen-inset"}
+learners$`gmt` <- as.factor(learners$`gmt`)
+p <- ggplot(learners, aes(x = `gmt`)) +
+  geom_bar(aes(fill = `gmt`), show.legend = FALSE) +
+  scale_fill_viridis_d() +
+  labs(title = "Members' Timezone", subtitle = "(GMT=0)",
+       caption = "data: Learners Profile",
+       y = "Number of Members", x = "Timezone Difference") +
+  theme_minimal()
+p <- p + coord_flip()
+ggplotly(p)
+```
+
+```{r layout="l-screen-inset"}
+learners$`level` <- as.factor(learners$`level`)
+p1 <- ggplot(learners, aes(x = `level`)) +
+  geom_bar(aes(fill = `level`), show.legend = FALSE) +
+  scale_fill_viridis_d() +
+  labs(title = "Members' Knowledge Level",
+       caption = "data: Learners Profile",
+       y = "Number of Members", x = "Knowledge Level") + 
+  theme_minimal()
+p1 <- p1 + coord_flip()
+ggplotly(p1)
+```
+
+```{r layout="l-screen-inset"}
+p2 <- ggplot(learners, aes(x = `country`)) +
+  geom_bar(aes(fill = `country`), show.legend = FALSE) +
+  scale_fill_viridis_d() +
+  labs(title = "Members' Country",
+       caption = "data: Learners Profile",
+       y = "Number of Members", x = "Country Staying") +
+  theme_minimal()
+p2 <- p2 + coord_flip()
+ggplotly(p2)
+```

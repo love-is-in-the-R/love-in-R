@@ -1,0 +1,90 @@
+---
+title: "Packages"
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(bootstrap)
+```
+
+::: {style="display: flex; "}
+::: {.column width="35%"}
+[![Tidyverse Package](assets/images/tidy.png){width="200"}](https://www.tidyverse.org)
+:::
+
+::: {.column width="5%"}
+<!-- This is empty column separation -->
+:::
+
+::: {.column width=60%"}
+### R packages for data science  
+
+The tidyverse is an opinionated [**collection of R packages**](https://www.tidyverse.org/packages) designed for data science. All packages share an underlying design philosophy, grammar, and data structures.  
+
+Install the complete tidyverse with:  
+`install.packages("tidyverse")`
+:::
+:::
+
+***
+
+::: {style="display: flex; "}  
+::: {.column width="35%"}  
+
+[![lubridate](assets/images/lubridate.png){width="200"}](https://lubridate.tidyverse.org/index.html)  
+
+:::  
+
+::: {.column width="5%"}
+<!-- This is empty column separation -->
+:::
+
+::: {.column width=60%"}  
+
+### **Overview**  
+
+Date-time data can be frustrating to work with in R. R commands for date-times are generally unintuitive and change depending on the type of date-time object being used. Moreover, the methods we use with date-times must be robust to time zones, leap days, daylight savings times, and other time related quirks, and R lacks these capabilities in some situations. Lubridate makes it easier to do the things R does with date-times and possible to do the things R does not.  
+
+If you are new to lubridate, the best place to start is the [date and times chapter](https://r4ds.had.co.nz/dates-and-times.html) in R for data science.  
+
+### **Installation**  
+
+The easiest way to get lubridate is to install the whole tidyverse:  
+`install.packages("tidyverse")`  
+
+Alternatively, install just lubridate:  
+`install.packages("lubridate")`  
+
+Or the the development version from GitHub:  
+`install.packages("devtools")`  
+`devtools::install_github("tidyverse/lubridate")`  
+
+:::
+:::  
+
+***
+
+## Webmasters {.appendix}
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/profile.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+#### KAMARUL ARIFFIN MANSOR\
+Designation: Senior Lecturer (Applied Statistics)\
+Affiliation: MARA University of Technology, Malaysia\
+Email: kamarul.ariffin.167118@gmail.com\
+[Website](https://ariff118.github.io/kamansor.github.io/)
+
+:::
+
+::::::
