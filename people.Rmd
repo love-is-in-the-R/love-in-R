@@ -13,8 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Founder
 
-![](assets/images/female.png){width="20%"}\
-
+![IMG_1826 15171](https://user-images.githubusercontent.com/109856021/180665293-36ee4b6d-ce20-43cc-a5a7-8d2ab4ad6581.jpg\
 
 ### Ishveen Kaur\
 MS (University of Texas at RGV, Texas)\
@@ -56,7 +55,7 @@ My name is Tessa Clarkson, I am a PhD Candidate at the University of Queensland,
 
 ***
 
-![293470166_1757033561312614_4839995128882907263_n](https://user-images.githubusercontent.com/109856021/180665019-b5232d70-e025-480d-a4c7-c45fc96abb03.jpg)
+![293470166_1757033561312614_4839995128882907263_n](https://user-images.githubusercontent.com/109856021/180665019-b5232d70-e025-480d-a4c7-c45fc96abb03.jpg\
 
 ### Faustino Delgado Camacho\
 Genotypic Data Analyst\
