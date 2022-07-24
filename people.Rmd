@@ -63,7 +63,9 @@ Genotypic Data Analyst\
 \
 Mexico\
 faustdelcam@gmail.com\
+Genotypic Data Analyst at CIMMYT (CGIAR)
 
+Biotechnologist/ Bioinformatician with vast experience in QC/Curation, analysis and management of genotypic and phenotypic data from Wheat and Maize.I also have experience with LIMS and GIS data.My main programming language of expertise is R, although I also use SQL and Python very frequently\
 ***
 
 ![](assets/images/elijah.png){width="20%"}\
