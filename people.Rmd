@@ -25,20 +25,20 @@ knitr::opts_chunk$set(echo = FALSE)
 MS (University of Texas at RGV, Texas)\
 BS (Punjab Agriculture University, India)\
 
-The idea of developing a global education netwrok of learning R was initiated,\
-conceptualised and executed by me. The thought behind\
-this idea was to create a global network/ community of\
+The idea of developing a global education network of learning R\
+was initiated, conceptualised and executed by me. The thought\
+behind this idea was to create a global network/ community of\
 people interested in coding where we all can learn from\
 each other and help each other grow. There is lot of stuff\
 online, but still large proportion of people face difficulty\
-iin learning R, due to lack of interactive and one on one\
-session. This idea led to creation of global interactive platform to bring\
-learners and mentors together, leading to creation R club, consisting of several\
-sessions from basics of R to advanced R. My\
+in learning R, due to lack of interactive and one on one\
+session. This idea led to creation of global interactive platform\
+to bring learners and mentors together, leading to creation R club,\
+consisting of several sessions from basics of R to advanced R. My\
 basic responsibilities include communication with mentors\
 and learners in designing schedule and course outline of\
-workshop, co-ordinating the sessions and acting as moderator to cater to needs of both\
-mentors and leaders.\
+workshop, co-ordinating the sessions and acting as moderator\
+to cater to needs of both mentors and leaders.\
 
 Quote: *If life throws lemons at you, make a\
 lemonade out of it and chill*.
@@ -84,13 +84,17 @@ lemonade out of it and chill*.
 ::: {.column width="75%}
 
 ### Tessa Ruth\
+
 *Designation*: Ph.D student\
 *Affiliation*: University of Queensland\
 *Country*: Australia\
-*Email*: tessc@live.com.au
-My name is Tessa Clarkson, I am a PhD Candidate at the University of Queensland, Australia\ 
-I have an interest in social cognition, memory, the self, and ownership\
-I am a self taught R coder and use R for behavioural data analysis and visualisation\
+*Email*: tessc@live.com.au\
+
+My name is Tessa Clarkson, I am a PhD Candidate at the\
+University of Queensland, Australia. I have an interest\
+in social cognition, memory, the self, and ownership. I am\
+a self taught R coder and use R for behavioural data analysis\
+and visualisation.\
 
 
 :::
