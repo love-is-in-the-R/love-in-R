@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Founder
 
-![IMG_1826 15171](https://user-images.githubusercontent.com/109856021/180665293-36ee4b6d-ce20-43cc-a5a7-8d2ab4ad6581.jpg\
+![IMG_1826 15171](https://user-images.githubusercontent.com/109856021/180665293-36ee4b6d-ce20-43cc-a5a7-8d2ab4ad6581.jpg){width="30%"}\
 
 ### Ishveen Kaur\
 MS (University of Texas at RGV, Texas)\
@@ -32,7 +32,7 @@ Quote: *If life throws lemons at you, make a lemonade out of it and chill*.
 
 ## Mentors
 
-![](assets/images/indrek.jpg){width="20%"}\
+![](assets/images/indrek.jpg){width="30%"}\
 
 ### Indrek Seppo\
 Economist, Data Scientist, R programmer, Lecturer\
@@ -42,7 +42,7 @@ indrek.seppo@gmail.com\
 
 ***
 
-![](assets/images/female.png){width="20%"}\
+![](assets/images/female.png){width="30%"}\
 
 ### Tessa Ruth\
 
@@ -55,7 +55,7 @@ My name is Tessa Clarkson, I am a PhD Candidate at the University of Queensland,
 
 ***
 
-![293470166_1757033561312614_4839995128882907263_n](https://user-images.githubusercontent.com/109856021/180665019-b5232d70-e025-480d-a4c7-c45fc96abb03.jpg\
+![293470166_1757033561312614_4839995128882907263_n](https://user-images.githubusercontent.com/109856021/180665019-b5232d70-e025-480d-a4c7-c45fc96abb03.jpg){width="30%"}\
 
 ### Faustino Delgado Camacho\
 Genotypic Data Analyst\
@@ -67,7 +67,7 @@ Genotypic Data Analyst at CIMMYT (CGIAR)
 Biotechnologist/ Bioinformatician with vast experience in QC/Curation, analysis and management of genotypic and phenotypic data from Wheat and Maize.I also have experience with LIMS and GIS data.My main programming language of expertise is R, although I also use SQL and Python very frequently\
 ***
 
-![](assets/images/elijah.png){width="20%"}\
+![](assets/images/elijah.png){width="30%"}\
 
 ### Elijah Appiah\
 Ghana\
