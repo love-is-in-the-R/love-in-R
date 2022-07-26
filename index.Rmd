@@ -54,6 +54,10 @@ To join the WhatsApp group chat, just click here -->
 
 ## Webmasters {.appendix}
 
+```{r include=FALSE}
+library(fontawesome)
+```
+
 :::::: {style="display: flex; "}
 
 ::: {.column width="25%"}
@@ -68,9 +72,15 @@ To join the WhatsApp group chat, just click here -->
 Designation: Senior Lecturer (Applied Statistics)\
 Affiliation: MARA University of Technology, Malaysia\
 Email: kamarul.ariffin.167118@gmail.com\
-[Website](https://ariff118.github.io/kamansor.github.io/)
+<a href="https://ariff118.github.io/kamansor.github.io/" target="_blank">`r fa("globe")` Website</a>\
+<a href="https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/" target="_blank">``r fa("youtube")` YouTube</a>\
+
+<!-- [`r fa("globe")` Website](https://ariff118.github.io/kamansor.github.io/)\ -->
+<!-- [`r fa("youtube")` YouTube](https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/)\ -->
+
 
 :::
 
 ::::::
+
 

@@ -42,6 +42,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ### 12 ggplot extensions for snazzier R graphics\
 For everything from styling text and customizing color palettes to creating your own geoms, these ggplot2 add-ons deserve a place in your R data visualization toolkit. <a href="https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html" target="_blank">[read more ...]</a>\
 
+## Recommended Blogs\
+[https://statmodeling.stat.columbia.edu/](https://statmodeling.stat.columbia.edu/)\
+
 <!-- ## Group Information\ -->
 <!-- Below are information regarding the learners' and mentors' profile. It listed also the possible topics that will be covered during the upcoming webinars.\ -->
 
@@ -153,6 +156,10 @@ For everything from styling text and customizing color palettes to creating your
 
 ## Webmasters {.appendix}
 
+```{r include=FALSE}
+library(fontawesome)
+```
+
 :::::: {style="display: flex; "}
 
 ::: {.column width="25%"}
@@ -167,7 +174,12 @@ For everything from styling text and customizing color palettes to creating your
 Designation: Senior Lecturer (Applied Statistics)\
 Affiliation: MARA University of Technology, Malaysia\
 Email: kamarul.ariffin.167118@gmail.com\
-[Website](https://ariff118.github.io/kamansor.github.io/)
+<a href="https://ariff118.github.io/kamansor.github.io/" target="_blank">`r fa("globe")` Website</a>\
+<a href="https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/" target="_blank">``r fa("youtube")` YouTube</a>\
+
+<!-- [`r fa("globe")` Website](https://ariff118.github.io/kamansor.github.io/)\ -->
+<!-- [`r fa("youtube")` YouTube](https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/)\ -->
+
 
 :::
 
