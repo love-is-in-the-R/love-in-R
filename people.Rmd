@@ -44,14 +44,14 @@ indrek.seppo@gmail.com\
 
 ![](assets/images/female.png){width="30%"}\
 
-### Tessa Ruth\
+### Tessa Clarkson\
 
 Ph.D student\
 University of Queensland\
 Australia\
 tessc@live.com.au\
 
-My name is Tessa Clarkson, I am a PhD Candidate at the University of Queensland, Australia. I have an interest in social cognition, memory, the self, and ownership. I am a self taught R coder and use R for behavioural data analysis and visualisation.\
+My name is Tessa Clarkson, I am a PhD Candidate at the University of Queensland, Australia. I have an interest in social cognition, memory, the self, and ownership. I am a self taught R coder and use R for behavioural data analysis and visualisation. twitter handle:@tessaclarkson\
 
 ***
 
