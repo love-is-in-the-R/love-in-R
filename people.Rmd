@@ -7,6 +7,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(fontawesome)
 ```
 
 <center>
@@ -25,8 +26,7 @@ There is lot of stuff online, but still large proportion of people face difficul
 
 My basic responsibilities include communication with mentors and learners in designing schedule and course outline of workshop, co-ordinating the sessions and acting as moderator to cater to needs of both mentors and leaders.\
 
-Quote: *If life throws lemons at you, make a lemonade out of it and chill*.
-
+Quote: *If life throws lemons at you, make a lemonade out of it and chill*.\
 
 ***
 
@@ -42,16 +42,18 @@ indrek.seppo@gmail.com\
 
 ***
 
-![](![294963468_316006144002635_5734397872722105074_n](https://user-images.githubusercontent.com/109856021/180921338-afc1da65-50fd-4ba4-83a4-e4917a1ad5d3.png){width="30%"}\
+![](assets/images/tessa.png){width="30%"}\
+<!-- ![294963468_316006144002635_5734397872722105074_n](https://user-images.githubusercontent.com/109856021/180921338-afc1da65-50fd-4ba4-83a4-e4917a1ad5d3.png){width="30%"}\ -->
 
 ### Tessa Clarkson\
 
-Ph.D candidiate\
+Ph.D candidate\
 University of Queensland\
 Australia\
 tessc@live.com.au\
 
-My name is Tessa Clarkson, I am a PhD Candidate at the University of Queensland, Australia. I have an interest in social cognition, memory, the self, and ownership. I am a self taught R coder and use R for behavioural data analysis and visualisation. twitter handle:@tessaclarkson\
+My name is Tessa Clarkson, I am a PhD Candidate at the University of Queensland, Australia. I have an interest in social cognition, memory, the self, and ownership. I am a self taught R coder and use R for behavioural data analysis and visualisation.\
+`r fa("twitter")` [tessaclarkson](https://twitter.com/tessaclarkson)\
 
 ***
 
@@ -62,9 +64,10 @@ Genotypic Data Analyst\
 \
 Mexico\
 faustdelcam@gmail.com\
-Genotypic Data Analyst at CIMMYT (CGIAR)
+Genotypic Data Analyst at CIMMYT (CGIAR)\
 
-Biotechnologist/ Bioinformatician with vast experience in QC/Curation, analysis and management of genotypic and phenotypic data from Wheat and Maize.I also have experience with LIMS and GIS data.My main programming language of expertise is R, although I also use SQL and Python very frequently\
+Biotechnologist/Bioinformatician with vast experience in QC/Curation, analysis and management of genotypic and phenotypic data from Wheat and Maize.I also have experience with LIMS and GIS data.My main programming language of expertise is R, although I also use SQL and Python very frequently.\
+
 ***
 
 ![](assets/images/elijah.png){width="30%"}\
@@ -84,10 +87,6 @@ appiahelijah497897@gmail.com\
 
 ## Webmasters {.appendix}
 
-```{r include=FALSE}
-library(fontawesome)
-```
-
 :::::: {style="display: flex; "}
 
 ::: {.column width="25%"}
@@ -104,10 +103,6 @@ Affiliation: MARA University of Technology, Malaysia\
 Email: kamarul.ariffin.167118@gmail.com\
 <a href="https://ariff118.github.io/kamansor.github.io/" target="_blank">`r fa("globe")` Website</a>\
 <a href="https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/" target="_blank">``r fa("youtube")` YouTube</a>\
-
-<!-- [`r fa("globe")` Website](https://ariff118.github.io/kamansor.github.io/)\ -->
-<!-- [`r fa("youtube")` YouTube](https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/)\ -->
-
 
 :::
 
