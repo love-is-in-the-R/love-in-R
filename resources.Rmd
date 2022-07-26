@@ -9,6 +9,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Course Outline\
+[Course outline of workshop series](https://docs.google.com/spreadsheets/d/1pWeRPkmQGj6XMcGUVeV65EnBtkKPEe5Fmm72j9_M5oY/edit#gid=1669276502)
+
 ## References\
 - [R for Data Science](https://r4ds.had.co.nz/index.html) by Hadley Wickham and Garrett Grolemund\
 
