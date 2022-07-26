@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![IMG_1826 15171](https://user-images.githubusercontent.com/109856021/180665293-36ee4b6d-ce20-43cc-a5a7-8d2ab4ad6581.jpg){width="30%"}\
 
 ### Ishveen Kaur\
-MS (University of Texas at RGV, Texas)\
+MS (University of Texas at RGV, USA)\
 BS (Punjab Agriculture University, India)\
 
 The idea of developing a global education network of learning R was initiated, conceptualised and executed by me. The thought behind this idea was to create a global network / community of people interested in coding where we all can learn from each other and help each other grow.\
@@ -42,11 +42,11 @@ indrek.seppo@gmail.com\
 
 ***
 
-![](assets/images/female.png){width="30%"}\
+![](![294963468_316006144002635_5734397872722105074_n](https://user-images.githubusercontent.com/109856021/180921338-afc1da65-50fd-4ba4-83a4-e4917a1ad5d3.png){width="30%"}\
 
 ### Tessa Clarkson\
 
-Ph.D student\
+Ph.D candidiate\
 University of Queensland\
 Australia\
 tessc@live.com.au\
