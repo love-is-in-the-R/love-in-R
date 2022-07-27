@@ -138,6 +138,19 @@ Mentor: Indrek Seppo\
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MplNrOaKE-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VEci4HTnr8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<aside>  
+**Seminar 8**\
+Date: 26 July 2022\
+Time: 12GMT\
+Platform: ZOOM\
+Topic: tidy data, converting data to wide and long format; intro to dplyr (grammar of data manipulation)\
+Mentor: Indrek Seppo\
+</aside>
+
 ## Webmasters {.appendix}
 
 ```{r include=FALSE}
