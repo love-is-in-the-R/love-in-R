@@ -151,6 +151,47 @@ Topic: tidy data, converting data to wide and long format; intro to dplyr (gramm
 Mentor: Indrek Seppo\
 </aside>
 
+***
+
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/XitnaxTHAv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
+
+<aside>  
+**Seminar 9**\
+Date: 27 July 2022\
+Time: 12GMT\
+Platform: ZOOM\
+Topic: dplyr, forecats and revision of tidyverse\
+Mentor: Indrek Seppo\
+</aside>
+
+***
+
+
+
+<aside>  
+**Seminar 10**\
+Date: 29 July 2022\
+Time: 12GMT\
+Platform: ZOOM\
+Topic: techniques to manipulate the length of datasets(pivot_longer and pivot_wider\
+Mentor: Elijah Appiah \
+</aside>
+
+***
+
+
+
+<aside>  
+**Seminar 10**\
+Date: 30 July 2022\
+Time: 12GMT\
+Platform: ZOOM\
+Topic: binding two datasets with common variable\
+Mentor: Elijah Appiah\
+</aside>
+
+
+
 ## Webmasters {.appendix}
 
 ```{r include=FALSE}
