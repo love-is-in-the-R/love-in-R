@@ -85,27 +85,27 @@ appiahelijah497897@gmail.com\
 </center>
 
 
-## Webmasters {.appendix}
+<!-- ## Webmasters {.appendix} -->
 
-:::::: {style="display: flex; "}
+<!-- :::::: {style="display: flex; "} -->
 
-::: {.column width="25%"}
+<!-- ::: {.column width="25%"} -->
 
-![](assets/images/profile.png){width="80%"}
+<!-- ![](assets/images/profile.png){width="80%"} -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="75%}
+<!-- ::: {.column width="75%} -->
 
-#### KAMARUL ARIFFIN MANSOR\
-Designation: Senior Lecturer (Applied Statistics)\
-Affiliation: MARA University of Technology, Malaysia\
-Email: kamarul.ariffin.167118@gmail.com\
-<a href="https://ariff118.github.io/kamansor.github.io/" target="_blank">`r fa("globe")` Website</a>\
-<a href="https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/" target="_blank">``r fa("youtube")` YouTube</a>\
+<!-- #### KAMARUL ARIFFIN MANSOR\ -->
+<!-- Designation: Senior Lecturer (Applied Statistics)\ -->
+<!-- Affiliation: MARA University of Technology, Malaysia\ -->
+<!-- Email: kamarul.ariffin.167118@gmail.com\ -->
+<!-- <a href="https://ariff118.github.io/kamansor.github.io/" target="_blank">`r fa("globe")` Website</a>\ -->
+<!-- <a href="https://www.youtube.com/channel/UC0I84XPicEYcCDZ1XDIPF4A/" target="_blank">``r fa("youtube")` YouTube</a>\ -->
 
-:::
+<!-- ::: -->
 
-::::::
+<!-- :::::: -->
 
 
